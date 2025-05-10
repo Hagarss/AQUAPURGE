@@ -46,6 +46,7 @@ AQUAPURGE is a fully integrated autonomous robot designed to clean water surface
 * **RTOS Integration:** Prioritized control (RF > Trash collection > Navigation)
 * **Manual Remote Control:** Joystick + Potentiometer via SPI to STM32
 * **PID Motor Control** for smooth navigation
+![image](https://github.com/user-attachments/assets/f9d4221b-727b-4695-bbb6-22cf797f898f)
 
 
 ### 3. **IoT System**
@@ -146,6 +147,7 @@ AQUAPURGE/
    * Open the Blynk app.
    * Load `blynk_dashboard.json` and connect to device.
 
+![image](https://github.com/user-attachments/assets/37342714-9743-457b-a5fc-e6e6afd86f0a)
 
 ---
 
