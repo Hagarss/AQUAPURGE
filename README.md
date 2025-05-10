@@ -6,7 +6,7 @@ AQUAPURGE is a fully integrated autonomous robot designed to clean water surface
 
 ---
 
-## 🌊 Features
+## Features
 
 * **Trash Detection** using YOLOv5n (86% mAP\@0.50)
 * **Autonomous Navigation** powered by FreeRTOS and brushless motors
@@ -20,7 +20,11 @@ AQUAPURGE is a fully integrated autonomous robot designed to clean water surface
 
 ## Project Overview
 
-![AQUAPURGE Bot](./images/aquapurge_bot.jpg)
+
+
+Uploading Untitled video - Made with Clipchamp.mp4…
+
+
 
 > *“Bringing intelligent, scalable and green technology to save our water bodies.”*
 
