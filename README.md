@@ -1,6 +1,5 @@
-
 ```
-# AQUAPURGE: Autonomous Water Cleaning Bot
+## AQUAPURGE: Autonomous Water Cleaning Bot
 
 AQUAPURGE is a fully integrated autonomous robot designed to clean water surfaces while monitoring environmental quality in real-time. Built with advanced Machine Learning (YOLOv5n), embedded systems (STM32 + FreeRTOS), and IoT technologies (Adafruit, GPS, TDS, and pH sensors), the bot offers a scalable and efficient solution to combat aquatic pollution.
 
