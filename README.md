@@ -121,7 +121,7 @@ AQUAPURGE/
 
 ---
 
-## 🛠 How to Run
+## How to Run
 
 ### 1. Train the Model
 
@@ -149,7 +149,7 @@ python server_socket.py
 
 ---
 
-## 📊 Performance Metrics
+## Performance Metrics
 
 | Metric   | Value             |
 | -------- | ----------------- |
